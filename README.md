@@ -1,5 +1,7 @@
 # Tickets Project Group
 
+## Authors Ben Fogarty, Peng Wei, Eric Langowski
+
 $503,113,540 in tickets. 140,516 Chicago Transportation Department permits.
 
 The primary purpose of this project is to examine the distribution of parking
